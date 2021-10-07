@@ -1,4 +1,4 @@
-# [Video Link](https://youtu.be/zL1DPZ0Ovlo)
+# [🏠](https://thatbeautifuldream.github.io/java-dsa-bootcamp/) [Video Link](https://youtu.be/zL1DPZ0Ovlo)
 
 # Problems
 

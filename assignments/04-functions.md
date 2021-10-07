@@ -1,4 +1,4 @@
-# [Video Link](https://youtu.be/vvanI8NRlSI)
+# [🏠](https://thatbeautifuldream.github.io/java-dsa-bootcamp/) [Video Link](https://youtu.be/vvanI8NRlSI)
 
 1. [Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.](https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
 
